@@ -122,10 +122,3 @@
 ## 
 <br>
 <br>
-
-![snake gif](https://github.com/Vinni-Anddrade/Vinni-Anddrade/blob/output/github-contribution-grid-snake.svg)
-![snake gif](https://raw.githubusercontent.com/Vinni-Anddrade/Vinni-Anddrade/output/github-contribution-grid-snake.svg)
-
-
-
-
