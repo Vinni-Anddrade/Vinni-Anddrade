@@ -50,11 +50,11 @@
       <sub>R</sub>
     </td>
     <td align="center" width="120">
-      <img src="https://python.langchain.com/img/brand/wordmark-dark.png" height="50"/><br>
+      <img src="https://images.contentstack.io/v3/assets/bltf2fca5bf44f5e817/blt86f8fcdcd59e3f1c/669e80a1e243d85bbe6e2ac3/Lang_Square.png" height="50"/><br>
       <sub>LangChain</sub>
     </td>
     <td align="center" width="120">
-      <img src="https://langchain-ai.github.io/langgraph/static/wordmark_dark.svg" height="50"/><br>
+      <img src="[https://langchain-ai.github.io/langgraph/static/wordmark_dark.svg](https://miro.medium.com/v2/resize:fit:720/format:webp/1*9HFsjXjgw6oG2HwQ3Okgwg.png)" height="50"/><br>
       <sub>LangGraph</sub>
     </td>
     <td align="center" width="120">
